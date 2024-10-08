@@ -33,5 +33,5 @@ Entre 4.0 e zero - E;
 
 
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://cienciaprogramada.com.br/wp-content/uploads/2020/08/python-logo-master-v3-TM-flattened.png)">
+  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAyMTJfNSAg/MDAxNjQ0NTkzNzE5MzQ1.q5g3zqnCq2Rt1xUmpSFx2xWRQTl4VmngS8FGT7eGD0Ig.UKr_wLSCCg8PD-v8TfDddCKFIWhKoeqh5lZM09FVrsYg.PNG.sw4r/image.png?type=w800">
 </div>
